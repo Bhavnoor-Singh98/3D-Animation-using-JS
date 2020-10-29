@@ -1,2 +1,3 @@
 # 3D-Animation-using-JS
-## Made with help of Dev Ed Youtuber
+## Display a 3D Shoe Card
+### Made with help of Dev Ed Youtuber
